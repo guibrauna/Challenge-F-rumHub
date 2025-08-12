@@ -1,0 +1,23 @@
+# Java
+*.class
+
+# Maven
+target/
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Sistema
+.DS_Store
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários
+*.tmp
+*.bak
